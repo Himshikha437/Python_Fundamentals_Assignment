@@ -23,9 +23,9 @@ else:
     print("b is older than a")
 
 dictionary={            #dictionary
-    "Name":"Hari",
-    "Age":28,
-    "email":"hari@gmail.com"
+    "Name":"Anushka",
+    "Age":22,
+    "email":"Anushka@gmail.com"
 }
 
 print(dictionary)      #printing dictionaries
